@@ -1,5 +1,3 @@
 ======
-LocalBitcoin WebApp Clone (Under Development)
+ProjectX WebApp (Under Development)
 ======
-
-LocalBitcoin is a Buy-Sell Cryptocurrency Marketplace build using Python Web framework.
